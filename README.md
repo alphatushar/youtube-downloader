@@ -15,6 +15,15 @@ and saves them in a QuickTime-compatible `.mp4` format.
 
 ---
 
+## 🖥️ Example
+
+### Before
+![Before Screenshot](example/before/before.png)
+
+### After
+![After Screenshot](example/after/after.png)
+
+---
 ## ⚡ Usage
 **Clone the repository:**
 ```bash
