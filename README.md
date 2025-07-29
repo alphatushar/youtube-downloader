@@ -24,11 +24,20 @@ and saves them in a QuickTime-compatible `.mp4` format.
 ![After Screenshot](example/after/after.png)
 
 ---
+
 ## ⚡ Usage
 **Clone the repository:**
 ```bash
 git clone git@github.com:alphatushar/youtube-downloader.git
 ```
 ---
+
+### Services
+- Python CLI script for downloading YouTube videos
+- Uses yt-dlp for downloads
+- Saves files to local Downloads folder
+
+---
+
 ## Author
 Tushar Sharma
