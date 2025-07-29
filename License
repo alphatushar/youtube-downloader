@@ -1,6 +1,0 @@
-Initialize Git if not done:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - YouTube Downloader Project"
