@@ -19,4 +19,7 @@ and saves them in a QuickTime-compatible `.mp4` format.
 **Clone the repository:**
 ```bash
 git clone git@github.com:alphatushar/youtube-downloader.git
-cd youtube-downloader
+```
+---
+## Author
+Tushar Sharma
